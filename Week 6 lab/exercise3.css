@@ -1,0 +1,34 @@
+body{
+	color:black;
+	background-color:green;
+}
+
+#wrapper{
+	width:750px;
+	margin:0 auto;
+	background-color:green;
+}
+
+#content1{
+	float:left;
+	width:200px;
+	height:250px;
+	background-color:blue;
+}
+
+#content2{
+	float:right;
+	width:200px;
+	height:250px;
+	background:red;
+}
+
+#content3{
+	float: none;
+  position:fixed;
+  top:260px;
+  left: 575px;
+	width:200px;
+	height:250px;
+	background:yellow;
+}
